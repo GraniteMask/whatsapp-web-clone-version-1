@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Whatapp-web-clone version 1'
+
+Its a clone of whatsapp clone in which you can chat in rooms with your friends and also can create new rooms. Functionality of emojis is also supported
+
+Link: https://whatsapp-firebase-12571.web.app/
 
 ## Available Scripts
 
