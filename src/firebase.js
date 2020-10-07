@@ -2,14 +2,14 @@
 import firebase from 'firebase'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAIss4nUvjsV5kX5LPqh_BxlpxyFdZaYnk",
+    apiKey: "",
     authDomain: "whatsapp-firebase-12571.firebaseapp.com",
     databaseURL: "https://whatsapp-firebase-12571.firebaseio.com",
     projectId: "whatsapp-firebase-12571",
     storageBucket: "whatsapp-firebase-12571.appspot.com",
-    messagingSenderId: "1099136734930",
-    appId: "1:1099136734930:web:f2be1c716de14a81ab3f0b",
-    measurementId: "G-K351RVRTME"
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
