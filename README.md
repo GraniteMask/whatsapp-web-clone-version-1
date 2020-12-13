@@ -1,6 +1,6 @@
 # Whatapp-web-clone version 1'
 
-
+![Whatsapp Chatting Clone](https://github.com/GraniteMask/whatsapp-web-clone-version-1/blob/master/Whatsapp.png?raw=true)
 
 Its a clone of whatsapp clone in which you can chat in rooms with your friends and also can create new rooms. Functionality of emojis is also supported
 
